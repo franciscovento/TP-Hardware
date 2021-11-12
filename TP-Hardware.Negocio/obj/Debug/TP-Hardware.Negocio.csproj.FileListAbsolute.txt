@@ -20,3 +20,14 @@ C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP
 C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.Negocio\obj\Debug\TP-Hardware.Negocio.csproj.CopyComplete
 C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.Negocio\obj\Debug\TP-Hardware.Negocio.dll
 C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.Negocio\obj\Debug\TP-Hardware.Negocio.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\bin\Debug\TP-Hardware.Negocio.dll
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\bin\Debug\TP-Hardware.Negocio.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\bin\Debug\TP-Hardware.AccesoDatos.dll
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\bin\Debug\TP-Hardware.Entidades.dll
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\bin\Debug\TP-Hardware.AccesoDatos.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\bin\Debug\TP-Hardware.Entidades.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\obj\Debug\TP-Hardware.Negocio.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\obj\Debug\TP-Hardware.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\obj\Debug\TP-Hardware.Negocio.csproj.CopyComplete
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\obj\Debug\TP-Hardware.Negocio.dll
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\obj\Debug\TP-Hardware.Negocio.pdb

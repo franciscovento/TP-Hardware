@@ -36,3 +36,22 @@ C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP
 C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.CopyComplete
 C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.exe
 C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.WinForm.exe.config
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.WinForm.exe
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.WinForm.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.Entidades.dll
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.Negocio.dll
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.Entidades.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.Negocio.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.FrmConsultarClientes.resources
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.FrmConsultarProductos.resources
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.FrmConsultarProveedores.resources
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.FrmConsultarVentas.resources
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.FrmMaster.resources
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.Properties.Resources.resources
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.GenerateResource.cache
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.CopyComplete
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.exe
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.pdb
