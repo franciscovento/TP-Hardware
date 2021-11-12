@@ -1,0 +1,5 @@
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.Entidades\bin\Debug\TP-Hardware.Entidades.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.Entidades\bin\Debug\TP-Hardware.Entidades.pdb
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.Entidades\obj\Debug\TP-Hardware.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.Entidades\obj\Debug\TP-Hardware.Entidades.dll
+C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.Entidades\obj\Debug\TP-Hardware.Entidades.pdb

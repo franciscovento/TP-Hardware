@@ -115,5 +115,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TP-Hardware.Entidades\TP-Hardware.Entidades.csproj">
+      <Project>{3e53331a-1d20-4044-b589-5995a62d15bc}</Project>
+      <Name>TP-Hardware.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TP-Hardware.Negocio\TP-Hardware.Negocio.csproj">
+      <Project>{c5b24788-acb9-4d31-a16f-82c4e97ca782}</Project>
+      <Name>TP-Hardware.Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-Hardware.WinForm", "TP-H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-Hardware.Entidades", "TP-Hardware.Entidades\TP-Hardware.Entidades.csproj", "{3E53331A-1D20-4044-B589-5995A62D15BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-Hardware.Negocio", "TP-Hardware.Negocio\TP-Hardware.Negocio.csproj", "{C5B24788-ACB9-4D31-A16F-82C4E97CA782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-Hardware.AccesoDatos", "TP-Hardware.AccesoDatos\TP-Hardware.AccesoDatos.csproj", "{DBC7B63B-E49C-4D01-900E-EDF9D6703043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{3E53331A-1D20-4044-B589-5995A62D15BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E53331A-1D20-4044-B589-5995A62D15BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E53331A-1D20-4044-B589-5995A62D15BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B24788-ACB9-4D31-A16F-82C4E97CA782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B24788-ACB9-4D31-A16F-82C4E97CA782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B24788-ACB9-4D31-A16F-82C4E97CA782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B24788-ACB9-4D31-A16F-82C4E97CA782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC7B63B-E49C-4D01-900E-EDF9D6703043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC7B63B-E49C-4D01-900E-EDF9D6703043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC7B63B-E49C-4D01-900E-EDF9D6703043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC7B63B-E49C-4D01-900E-EDF9D6703043}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
