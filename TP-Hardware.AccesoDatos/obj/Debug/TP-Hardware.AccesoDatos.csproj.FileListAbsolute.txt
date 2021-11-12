@@ -7,3 +7,12 @@ C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.AccesoDatos
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.csproj.CopyComplete
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.dll
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.pdb
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.AccesoDatos\bin\Debug\TP-Hardware.AccesoDatos.dll
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.AccesoDatos\bin\Debug\TP-Hardware.AccesoDatos.pdb
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.AccesoDatos\bin\Debug\TP-Hardware.Entidades.dll
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.AccesoDatos\bin\Debug\TP-Hardware.Entidades.pdb
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.dll
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.pdb

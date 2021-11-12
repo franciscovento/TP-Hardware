@@ -17,3 +17,22 @@ C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.WinForm\bin
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.Entidades.pdb
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.Negocio.pdb
 C:\Users\franc\Documents\UBA\CAI\Repo GitHub\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.WinForm.exe.config
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.WinForm.exe
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.WinForm.pdb
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.Entidades.dll
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.Negocio.dll
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.Entidades.pdb
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.Negocio.pdb
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.FrmConsultarClientes.resources
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.FrmConsultarProductos.resources
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.FrmConsultarProveedores.resources
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.FrmConsultarVentas.resources
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.FrmMaster.resources
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.exe
+C:\Users\Gonzalo\Desktop\Facultad\CAI\Segunda Parte\Tp - Hardware\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.pdb
