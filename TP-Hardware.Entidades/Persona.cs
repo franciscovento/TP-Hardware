@@ -9,16 +9,21 @@ namespace TP_Hardware.Entidades
     public abstract class Persona
     {
         private string _nombre;
-
-        public Persona(string Nombre)
+        private string _apellido;
+        private string _direccion;
+        private string _email;
+        private int _telefono;
+        private DateTime _fechaNacimiento;
+        public Persona(string Nombre, string Apellido, string Direccion, string Email, int Telefono, DateTime FechaNacimiento)
         {
             this._nombre = Nombre;
+            this._apellido = Apellido;
+            this._direccion = Direccion;
+            this._email = Email;
+            this._telefono = Telefono;
+            this._fechaNacimiento = FechaNacimiento;
         }
 
-        public string Nombre
-        {
-            get => _nombre;
-            set => _nombre = value;
-        }
+     
     }
 }

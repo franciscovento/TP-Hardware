@@ -8,15 +8,14 @@ namespace TP_Hardware.Entidades
 {
     public class Cliente: Persona
     {
-        private int _documento;
-        private DateTime _fNacimiento;
+        private DateTime _fechaAlta;
+        private bool _activo;
 
 
-
-        public Cliente(int Documento, DateTime FNacimiento, string Nombre ):base(Nombre)
+        public Cliente(DateTime FechaAlta, bool Activo, string Nombre, string Apellido, string Direccion, string Email, int Telefono, DateTime FechaNacimiento):base(Nombre, Apellido, Direccion, Email, Telefono, FechaNacimiento)
         {
-            this._documento = Documento;
-            this._fNacimiento = FNacimiento;
+            this._fechaAlta = FechaAlta;
+            this._activo = Activo;
         }
     }
 }
