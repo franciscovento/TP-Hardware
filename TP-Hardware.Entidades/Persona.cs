@@ -8,14 +8,16 @@ namespace TP_Hardware.Entidades
 {
     public abstract class Persona
     {
+        private int _dni;
         private string _nombre;
         private string _apellido;
         private string _direccion;
         private string _email;
-        private int _telefono;
+        private string _telefono;
         private DateTime _fechaNacimiento;
-        public Persona(string Nombre, string Apellido, string Direccion, string Email, int Telefono, DateTime FechaNacimiento)
+        public Persona(int DNI, string Nombre, string Apellido, string Direccion, string Email, string Telefono, DateTime FechaNacimiento)
         {
+            this._dni = DNI;
             this._nombre = Nombre;
             this._apellido = Apellido;
             this._direccion = Direccion;
@@ -24,6 +26,16 @@ namespace TP_Hardware.Entidades
             this._fechaNacimiento = FechaNacimiento;
         }
 
-     
+        public int DNI
+        {
+            get => _dni;
+            set => _dni = value;
+        }
+
+        public override string ToString()
+        {
+            return $"{this._apellido}, {this._nombre}";
+        }
+
     }
 }

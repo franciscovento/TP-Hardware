@@ -31,3 +31,5 @@ C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\ob
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\obj\Debug\TP-Hardware.Negocio.csproj.CopyComplete
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\obj\Debug\TP-Hardware.Negocio.dll
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\obj\Debug\TP-Hardware.Negocio.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.Negocio\bin\Debug\Newtonsoft.Json.xml

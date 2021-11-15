@@ -25,3 +25,5 @@ C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDato
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.csproj.CopyComplete
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.dll
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\bin\Debug\Newtonsoft.Json.xml

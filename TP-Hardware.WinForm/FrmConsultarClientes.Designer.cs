@@ -29,7 +29,7 @@ namespace TP_Hardware.WinForm
         /// </summary>
         private void InitializeComponent()
         {
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this._lstClientes = new System.Windows.Forms.ListBox();
             this._lblCodigoProd = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this._btnBuscarCliente = new System.Windows.Forms.Button();
@@ -37,14 +37,14 @@ namespace TP_Hardware.WinForm
             this._lblTituloTienda = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // listBox1
+            // _lstClientes
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 16;
-            this.listBox1.Location = new System.Drawing.Point(296, 148);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(455, 228);
-            this.listBox1.TabIndex = 0;
+            this._lstClientes.FormattingEnabled = true;
+            this._lstClientes.ItemHeight = 16;
+            this._lstClientes.Location = new System.Drawing.Point(296, 148);
+            this._lstClientes.Name = "_lstClientes";
+            this._lstClientes.Size = new System.Drawing.Size(455, 228);
+            this._lstClientes.TabIndex = 0;
             // 
             // _lblCodigoProd
             // 
@@ -102,10 +102,11 @@ namespace TP_Hardware.WinForm
             this.Controls.Add(this._btnBuscarCliente);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this._lblCodigoProd);
-            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this._lstClientes);
             this.Name = "FrmConsultarClientes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Consultar Clientes";
+            this.Load += new System.EventHandler(this.FrmConsultarClientes_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -113,7 +114,7 @@ namespace TP_Hardware.WinForm
 
         #endregion
 
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox _lstClientes;
         private System.Windows.Forms.Label _lblCodigoProd;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button _btnBuscarCliente;

@@ -12,10 +12,24 @@ namespace TP_Hardware.Entidades
         private bool _activo;
 
 
-        public Cliente(DateTime FechaAlta, bool Activo, string Nombre, string Apellido, string Direccion, string Email, int Telefono, DateTime FechaNacimiento):base(Nombre, Apellido, Direccion, Email, Telefono, FechaNacimiento)
+        public Cliente(DateTime FechaAlta, bool Activo, int DNI, string Nombre, string Apellido, string Direccion, string Email, string Telefono, DateTime FechaNacimiento):base(DNI, Nombre, Apellido, Direccion, Email, Telefono, FechaNacimiento)
         {
             this._fechaAlta = FechaAlta;
             this._activo = Activo;
+        }
+
+        public bool Activo
+        {
+            get => _activo;
+            set => _activo = value;
+        }
+
+        public string Mostrar
+        {
+            get
+            {
+                return $"{this.DNI} - {this.ToString()}";
+            }
         }
     }
 }

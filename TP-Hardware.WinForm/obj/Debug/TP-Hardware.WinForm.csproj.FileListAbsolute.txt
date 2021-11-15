@@ -55,3 +55,7 @@ C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\ob
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.CopyComplete
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.exe
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.AccesoDatos.dll
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.AccesoDatos.pdb
+C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\Newtonsoft.Json.xml
