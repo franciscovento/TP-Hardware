@@ -31,7 +31,7 @@ namespace TP_Hardware.WinForm
         {
             this._lstClientes = new System.Windows.Forms.ListBox();
             this._lblCodigoProd = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this._txtBuscarCliente = new System.Windows.Forms.TextBox();
             this._btnBuscarCliente = new System.Windows.Forms.Button();
             this._btnVolver = new System.Windows.Forms.Button();
             this._lblTituloTienda = new System.Windows.Forms.Label();
@@ -57,13 +57,13 @@ namespace TP_Hardware.WinForm
             this._lblCodigoProd.TabIndex = 1;
             this._lblCodigoProd.Text = "Código de producto";
             // 
-            // textBox1
+            // _txtBuscarCliente
             // 
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox1.Location = new System.Drawing.Point(41, 168);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(184, 22);
-            this.textBox1.TabIndex = 2;
+            this._txtBuscarCliente.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this._txtBuscarCliente.Location = new System.Drawing.Point(41, 168);
+            this._txtBuscarCliente.Name = "_txtBuscarCliente";
+            this._txtBuscarCliente.Size = new System.Drawing.Size(184, 22);
+            this._txtBuscarCliente.TabIndex = 2;
             // 
             // _btnBuscarCliente
             // 
@@ -73,6 +73,7 @@ namespace TP_Hardware.WinForm
             this._btnBuscarCliente.TabIndex = 3;
             this._btnBuscarCliente.Text = "Buscar cliente";
             this._btnBuscarCliente.UseVisualStyleBackColor = true;
+            this._btnBuscarCliente.Click += new System.EventHandler(this._btnBuscarCliente_Click);
             // 
             // _btnVolver
             // 
@@ -124,7 +125,7 @@ namespace TP_Hardware.WinForm
             this.Controls.Add(this._lblTituloTienda);
             this.Controls.Add(this._btnVolver);
             this.Controls.Add(this._btnBuscarCliente);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this._txtBuscarCliente);
             this.Controls.Add(this._lblCodigoProd);
             this.Controls.Add(this._lstClientes);
             this.Name = "FrmConsultarClientes";
@@ -140,7 +141,7 @@ namespace TP_Hardware.WinForm
 
         private System.Windows.Forms.ListBox _lstClientes;
         private System.Windows.Forms.Label _lblCodigoProd;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox _txtBuscarCliente;
         private System.Windows.Forms.Button _btnBuscarCliente;
         private System.Windows.Forms.Button _btnVolver;
         private System.Windows.Forms.Label _lblTituloTienda;

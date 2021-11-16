@@ -42,6 +42,7 @@ namespace TP_Hardware.WinForm
             this._txtTelefono = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this._btnAgregarCliente = new System.Windows.Forms.Button();
+            this._bntVolver = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -142,19 +143,30 @@ namespace TP_Hardware.WinForm
             // 
             // _btnAgregarCliente
             // 
-            this._btnAgregarCliente.Location = new System.Drawing.Point(164, 379);
+            this._btnAgregarCliente.Location = new System.Drawing.Point(269, 379);
             this._btnAgregarCliente.Name = "_btnAgregarCliente";
-            this._btnAgregarCliente.Size = new System.Drawing.Size(183, 44);
+            this._btnAgregarCliente.Size = new System.Drawing.Size(78, 44);
             this._btnAgregarCliente.TabIndex = 12;
             this._btnAgregarCliente.Text = "Agregar";
             this._btnAgregarCliente.UseVisualStyleBackColor = true;
             this._btnAgregarCliente.Click += new System.EventHandler(this._btnAgregarCliente_Click);
+            // 
+            // _bntVolver
+            // 
+            this._bntVolver.Location = new System.Drawing.Point(164, 379);
+            this._bntVolver.Name = "_bntVolver";
+            this._bntVolver.Size = new System.Drawing.Size(78, 44);
+            this._bntVolver.TabIndex = 13;
+            this._bntVolver.Text = "Volver";
+            this._bntVolver.UseVisualStyleBackColor = true;
+            this._bntVolver.Click += new System.EventHandler(this._bntVolver_Click);
             // 
             // FrmAgregarCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(521, 450);
+            this.Controls.Add(this._bntVolver);
             this.Controls.Add(this._btnAgregarCliente);
             this.Controls.Add(this._txtTelefono);
             this.Controls.Add(this.label6);
@@ -190,5 +202,6 @@ namespace TP_Hardware.WinForm
         private System.Windows.Forms.TextBox _txtTelefono;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button _btnAgregarCliente;
+        private System.Windows.Forms.Button _bntVolver;
     }
 }

@@ -65,5 +65,11 @@ namespace TP_Hardware.WinForm
             _txtEmail.Clear();
             _txtTelefono.Clear();
         }
+
+        private void _bntVolver_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            this.Owner.Show();
+        }
     }
 }

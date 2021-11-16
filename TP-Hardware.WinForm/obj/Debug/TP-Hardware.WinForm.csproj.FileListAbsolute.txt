@@ -59,4 +59,3 @@ C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bi
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\TP-Hardware.AccesoDatos.pdb
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\bin\Debug\Newtonsoft.Json.xml
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP_Hardware.WinForm.FrmAgregarCliente.resources
-C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.WinForm\obj\Debug\TP-Hardware.WinForm.csproj.CopyComplete

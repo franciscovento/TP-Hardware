@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TP_Hardware.Entidades;
 using TP_Hardware.Negocio;
 
 namespace TP_Hardware.WinForm
@@ -51,6 +52,31 @@ namespace TP_Hardware.WinForm
         private void button2_Click(object sender, EventArgs e)
         {
             CargarListaClientes();
+        }
+
+        private void _btnBuscarCliente_Click(object sender, EventArgs e)
+        {
+            int salida;
+            if (_txtBuscarCliente.Text == "" || (!Int32.TryParse(_txtBuscarCliente.Text, out salida )))
+            {
+                MessageBox.Show("El campo debe ser númerico y no debe estar vacío", "Error");
+            }
+
+            List<Cliente> c = _clienteServicio.GetClientes().FindAll(x => x.DNI == Convert.ToInt32(_txtBuscarCliente.Text));
+
+            if (c.Count > 0)
+            {
+                _lstClientes.DataSource = null;
+                _lstClientes.DataSource = c;
+                _lstClientes.DisplayMember = "Mostrar";
+                _lstClientes.ValueMember = "DNI";
+                _txtBuscarCliente.Clear();
+            }
+            else
+            {
+                MessageBox.Show("No existen clientes con ese documento", "Error");
+            }
+           
         }
     }
 }
