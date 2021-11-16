@@ -32,6 +32,42 @@ namespace TP_Hardware.Entidades
             set => _dni = value;
         }
 
+        public string Nombre
+        {
+            get => _nombre;
+            set => _nombre = value;
+        }
+
+        public string Apellido
+        {
+            get => _apellido;
+            set => _apellido = value;
+        }
+
+        public string Direccion
+        {
+            get => _direccion;
+            set => _direccion = value;
+        }
+
+        public string Email
+        {
+            get => _email;
+            set => _email = value;
+        }
+
+        public string Telefono
+        {
+            get => _telefono;
+            set => _telefono = value;
+        }
+
+        public DateTime FNacimiento
+        {
+            get => _fechaNacimiento;
+            set => _fechaNacimiento = value;
+        }
+
         public override string ToString()
         {
             return $"{this._apellido}, {this._nombre}";

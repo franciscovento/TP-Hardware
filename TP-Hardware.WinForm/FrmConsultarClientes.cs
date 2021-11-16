@@ -14,8 +14,10 @@ namespace TP_Hardware.WinForm
     public partial class FrmConsultarClientes : Form
     {
         private ClienteServicio _clienteServicio;
+        private FrmAgregarCliente _formAgregarCliente;
         public FrmConsultarClientes(Form propietario)
         {
+            _formAgregarCliente = new FrmAgregarCliente(this);
             _clienteServicio = new ClienteServicio();
             this.Owner = propietario;
             InitializeComponent();
@@ -38,6 +40,17 @@ namespace TP_Hardware.WinForm
             _lstClientes.DataSource = _clienteServicio.GetClientes();
             _lstClientes.DisplayMember = "Mostrar";
             _lstClientes.ValueMember = "DNI";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            _formAgregarCliente.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            CargarListaClientes();
         }
     }
 }

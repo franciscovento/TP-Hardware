@@ -21,5 +21,13 @@ namespace TP_Hardware.Negocio
         {
             return _clienteMapper.TraerClientes();
         }
+
+        public void AddCliente(Cliente cliente)
+        {
+            TransactionResult resultado = _clienteMapper.Agregar(cliente);
+
+            if (resultado.IsOk == false)
+                throw new Exception("No se pudo insertar el cliente. Motivo " + resultado.Error);
+        }
     }
 }

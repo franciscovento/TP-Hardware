@@ -22,7 +22,6 @@ C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDato
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\bin\Debug\TP-Hardware.Entidades.pdb
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.csproj.AssemblyReference.cache
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.csproj.CoreCompileInputs.cache
-C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.csproj.CopyComplete
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.dll
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\obj\Debug\TP-Hardware.AccesoDatos.pdb
 C:\Users\franc\Documents\GitHub - Repositores\TP-Hardware\TP-Hardware.AccesoDatos\bin\Debug\Newtonsoft.Json.dll
